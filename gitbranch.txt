@@ -1,2 +1,6 @@
 c'est le test de branche
+branch0 :
+et moi la branch0
+=======
+master :
 cest moi le master
